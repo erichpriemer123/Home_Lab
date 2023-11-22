@@ -2,7 +2,7 @@
 
 Home Lab Documentation
 
-### About
+## About
 
 This home lab consists of my current home network. The main reason I decided to start a home lab was to:
 
@@ -19,6 +19,7 @@ The purpose of this documentation is to provide insights into my setup, configur
 ![Alt Text](/images//network1.drawio.png)
 
 #### Devices
+
 - Ubuntu server
    - Wake-on-Lan
    - Media Server
@@ -30,6 +31,7 @@ The purpose of this documentation is to provide insights into my setup, configur
    - Due to this device having a high amount of ram, I will be setting up multiple bridged vms 
 
 #### Goals
+
 - Want to set up multiple services. Examples:
     - Active Directory
     - Dns Server
@@ -37,5 +39,3 @@ The purpose of this documentation is to provide insights into my setup, configur
     - Media Server
 - Want to set up monitoring for all of the devices
 - Upgrade storage of devices.
-
-
