@@ -14,5 +14,28 @@ The purpose of this documentation is to provide insights into my setup, configur
 
 ### Current Technology
 
-Network map:
+#### Network map:
+
+![Alt Text](/images//network1.drawio.png)
+
+#### Devices
+- Ubuntu server
+   - Wake-on-Lan
+   - Media Server
+   - ?
+- Windows 10/Ubuntu WorkStation
+   - manager- used to access server
+   - Used for work
+- Windows 10 workstation
+   - Due to this device having a high amount of ram, I will be setting up multiple bridged vms 
+
+#### Goals
+- Want to set up multiple services. Examples:
+    - Active Directory
+    - Dns Server
+    - Next Cloud
+    - Media Server
+- Want to set up monitoring for all of the devices
+- Upgrade storage of devices.
+
 
